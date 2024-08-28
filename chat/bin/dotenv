@@ -1,4 +1,4 @@
-#!/home/yabakhar/Web/chatbot/Chatbot_LangChain_LLMs_VectorDB_Streamlit/chat/bin/python3
+#!/home/yabakhar/Web/chatbot/Chatbot_LangChain_LLMs_VectorDB_Streamlit/chat/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys

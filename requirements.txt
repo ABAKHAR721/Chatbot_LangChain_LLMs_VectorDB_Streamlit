@@ -4,4 +4,3 @@ langchain
 PyPDF
 faiss-cpu
 streamlit
--e .
